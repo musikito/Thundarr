@@ -6,5 +6,5 @@ Add TileMapLayer
 	"For ground tiles see Zenva tutorial"
 
 # Project settings
-Window -> Scale = 4.0
+Window -> Scale = 4.0 </br>
 Renderer -> Textures -> Nearest
